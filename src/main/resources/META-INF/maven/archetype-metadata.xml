@@ -39,6 +39,7 @@
       <directory>mongo-seed</directory>
       <includes>
         <include>**/*.</include>
+        <include>**/Dockerfile</include>
         <include>**/*.json</include>
       </includes>
     </fileSet>
